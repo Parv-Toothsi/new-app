@@ -12,7 +12,7 @@ const Motor: NextPage = () => {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>This is NEXT application's motor page</h1>
+        <h1 className={styles.title}>{`This is NEXT application's motor page`}</h1>
       </main>
     </div>
   );
